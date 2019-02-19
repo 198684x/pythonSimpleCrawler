@@ -1,4 +1,4 @@
-# Pythong simple crawler
+# Python simple crawler
 
 Hard-coded site and pattern to retrive produtes information.\
 \
