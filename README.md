@@ -1,7 +1,7 @@
-# Python simple crawler
+# Python(2.7) simple crawler
 
 Hard-coded site and pattern to retrive produtes information.\
 \
 2 files involved:\
 webContent.txt -> save html information from websites.\
-allProducts.xls -> search patterns to find products and save to execl file.\
+allProducts.xls -> search patterns to find products and save to execl file.
